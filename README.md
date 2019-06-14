@@ -1,10 +1,10 @@
-#About
+# About
 Very basic OpenGL in scala demo that shows basic transformations of a 2d object
 
-#Running it
+# Running it
 To run the program use sbt clean run while in terminal
 
-#Controls
+# Controls
 
 |   Key |   What it does                        |
 |-------|---------------------------------------|
